@@ -54,7 +54,7 @@ public class Main {
 		JOptionPane.showMessageDialog(null, "The speed is: " + myCar.getSpeed());
 		*/
 		
-		/*
+		
 		//test code for exercise 4
 		Area area = new Area();
 		
@@ -66,7 +66,7 @@ public class Main {
 		JOptionPane.showMessageDialog(null, "Circle Area: " + area.Area(Double.parseDouble(radius)));
 		JOptionPane.showMessageDialog(null, "Rectangle Area: " + area.Area(Double.parseDouble(length), Double.parseDouble(width)));
 		JOptionPane.showMessageDialog(null, "Cylinder Area: " + area.Area(Float.parseFloat(radius), Float.parseFloat(height)));
-		*/
+		
 		
 		/*
 		//test code for exercise 7
