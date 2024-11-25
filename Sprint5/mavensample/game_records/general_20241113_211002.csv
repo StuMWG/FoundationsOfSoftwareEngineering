@@ -1,0 +1,10 @@
+BoardSize,3,GameMode,General
+Blue,0,0,S,false
+Red,0,1,O,false
+Blue,0,2,S,true,0,2,0,1,0,0
+Blue,1,1,S,false
+Red,1,0,S,false
+Blue,1,2,O,false
+Red,2,1,O,false
+Blue,2,0,O,false
+Red,2,2,S,true,2,2,1,2,0,2
